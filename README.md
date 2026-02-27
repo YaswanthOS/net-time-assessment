@@ -60,3 +60,14 @@ This enables frame-level NPT estimation.
 
 Install environment:
 pip install -r requirements.txt
+
+Run: python src/event_npt_pipeline.py
+
+
+---
+
+## Author
+
+Yaswanth O. S.  
+PhD Applicant — Science & Health in Football  
+Saarland University

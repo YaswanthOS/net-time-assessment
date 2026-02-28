@@ -137,8 +137,6 @@ jupyter notebook NetTime_CodingAssessment.ipynb
 - **Out-of-order events**: Some DFL event XML files contain out-of-order timestamps
   (late-logged events). The notebook handles this by anchoring half boundaries to
   `KickOff` and `FinalWhistle` gameclock values.
-- **Player IDs in XY data**: The `players` attribute on XY objects is empty in
-  floodlight 0.4.0. Players are indexed by column position (0–19 per team).
 - **Data not included**: XML data files must be downloaded separately from figshare.
 
 ---
@@ -146,5 +144,6 @@ jupyter notebook NetTime_CodingAssessment.ipynb
 ## Contact
 
 Yaswanth O. S.  
-PhD Programme Science & Health in Football | Saarland University  
+IISER Thiruvananthapuram
+yaswanth2021@iisertvm.ac.in  
 February 2026

@@ -95,7 +95,7 @@ the direct input for the qualitative triangulation methodology proposed in Task 
 ## Data Access
 
 1. Go to the figshare repository for Bassek et al. (2025):
-   https://doi.org/10.6084/m9.figshare.28152671
+   https://doi.org/10.6084/m9.figshare.28196177
 
 2. Download all XML files for the 7 matches. The files follow this naming convention:
    ```
